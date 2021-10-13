@@ -2,7 +2,6 @@ skinparam {
   NoteBorderColor #000000
   NoteBackgroundColor #ffffff
   Shadowing false
-  MaxMessageSize 100
   Roundcorner 20
 }
 

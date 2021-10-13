@@ -9,14 +9,24 @@ skinparam sequence {
   ArrowColor #ff6900
   ArrowFontColor #000000
   ArrowThickness 1
+
   LifeLineBorderColor #AAAAAA
   LifeLineBackgroundColor #AAAAAA
   LifeLineBorderThickness 1
+
   ParticipantBorderColor #ff6900
   ParticipantBackgroundColor #FFFFFF
   ParticipantFontColor #ff6900  	
+
   ActorBackgroundColor #FFFFFF
   ActorBorderColor #ff6900
   ActorFontColor #ff6900
+
+  GroupBorderColor #AAAAAA
+  GroupFontColor #555555
+  GroupHeaderFontColor #000000
+  GroupBackgroundColor #AAAAAA
+  GroupBodyBackgroundColor #FFFFFF
+  GroupHeaderBackgroundColor #FFFFFF
 }
 

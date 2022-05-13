@@ -7,7 +7,7 @@ skinparam {
 
 skinparam sequence {
   ArrowColor #812335
-  ArrowFontColor #37485C
+  ArrowFontColor #000000
   ArrowThickness 1
 
   LifeLineBorderColor #37485C
@@ -24,7 +24,7 @@ skinparam sequence {
 
   GroupBorderColor #37485C
   GroupFontColor #555555
-  GroupHeaderFontColor #37485C
+  GroupHeaderFontColor #000000
   GroupBackgroundColor #37485C
   GroupBodyBackgroundColor #FFFFFF
   GroupHeaderBackgroundColor #FFFFFF

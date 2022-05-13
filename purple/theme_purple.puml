@@ -1,0 +1,32 @@
+skinparam {
+  NoteBorderColor #000000
+  NoteBackgroundColor #ffffff
+  Shadowing false
+  Roundcorner 20
+}
+
+skinparam sequence {
+  ArrowColor #812335
+  ArrowFontColor #37485C
+  ArrowThickness 1
+
+  LifeLineBorderColor #37485C
+  LifeLineBackgroundColor #37485C
+  LifeLineBorderThickness 1
+
+  ParticipantBorderColor #812335
+  ParticipantBackgroundColor #FFFFFF
+  ParticipantFontColor #812335  	
+
+  ActorBackgroundColor #FFFFFF
+  ActorBorderColor #812335
+  ActorFontColor #812335
+
+  GroupBorderColor #37485C
+  GroupFontColor #555555
+  GroupHeaderFontColor #37485C
+  GroupBackgroundColor #37485C
+  GroupBodyBackgroundColor #FFFFFF
+  GroupHeaderBackgroundColor #FFFFFF
+}
+

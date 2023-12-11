@@ -15,7 +15,7 @@ skinparam sequence {
   ArrowThickness 1
 
   LifeLineBorderColor #3377FF
-  LifeLineBackgroundColor #3377FF
+  LifeLineBackgroundColor #EBF1FF
   LifeLineBorderThickness 1
 
   ParticipantBorderColor #3377FF

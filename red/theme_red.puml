@@ -29,8 +29,8 @@ skinparam sequence {
 
   GroupBorderColor #616161
   GroupFontColor #616161
-  GroupHeaderFontColor #616161
-  GroupBackgroundColor #E2011F
+  GroupHeaderFontColor #E2011F
+  GroupBackgroundColor #616161
   GroupBodyBackgroundColor #FFFFFF
   GroupHeaderBackgroundColor #FFFFFF
 }

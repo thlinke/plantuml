@@ -1,5 +1,6 @@
 skinparam {
-  NoteBorderColor #616161
+  NoteBorderColor #E2011F
+  NoteFontColor #616161
   NoteBackgroundColor #FFFFFF
   SequenceBoxFontColor #616161
   SequenceBoxBorderColor #616161

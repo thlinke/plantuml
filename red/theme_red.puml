@@ -15,11 +15,11 @@ skinparam sequence {
   ArrowThickness 1
 
   LifeLineBorderColor #E2011F
-  LifeLineBackgroundColor #EBF1FF
+  LifeLineBackgroundColor #FFFFFF
   LifeLineBorderThickness 1
 
   ParticipantBorderColor #E2011F
-  ParticipantBackgroundColor #EBF1FF
+  ParticipantBackgroundColor #FFFFFF
   ParticipantFontColor #616161	
 
   ActorBackgroundColor #FFFFFF

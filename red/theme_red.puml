@@ -24,7 +24,7 @@ skinparam sequence {
 
   ActorBackgroundColor #FFFFFF
   ActorBorderColor #E2011F
-  ActorFontColor #E2011F
+  ActorFontColor #616161
 
   GroupBorderColor #E2011F
   GroupFontColor #616161

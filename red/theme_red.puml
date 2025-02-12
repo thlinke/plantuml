@@ -1,9 +1,9 @@
 skinparam {
   NoteBorderColor #616161
-  NoteBackgroundColor #EBF1FF
+  NoteBackgroundColor #FFFFFF
   SequenceBoxFontColor #616161
-  SequenceBoxBorderColor #EBF1FF
-  SequenceBoxBackgroundColor #F5F9FF
+  SequenceBoxBorderColor #616161
+  SequenceBoxBackgroundColor #FFFFFF
   Shadowing false
   Roundcorner 20
 }

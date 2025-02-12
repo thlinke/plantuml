@@ -1,0 +1,36 @@
+skinparam {
+  NoteBorderColor #616161
+  NoteBackgroundColor #EBF1FF
+  SequenceBoxFontColor #616161
+  SequenceBoxBorderColor #EBF1FF
+  SequenceBoxBackgroundColor #F5F9FF
+  Shadowing false
+  Roundcorner 20
+}
+
+skinparam sequence {
+
+  ArrowColor #E2011F
+  ArrowFontColor #616161
+  ArrowThickness 1
+
+  LifeLineBorderColor #E2011F
+  LifeLineBackgroundColor #EBF1FF
+  LifeLineBorderThickness 1
+
+  ParticipantBorderColor #E2011F
+  ParticipantBackgroundColor #EBF1FF
+  ParticipantFontColor #616161	
+
+  ActorBackgroundColor #FFFFFF
+  ActorBorderColor #E2011F
+  ActorFontColor #E2011F
+
+  GroupBorderColor #E2011F
+  GroupFontColor #616161
+  GroupHeaderFontColor #616161
+  GroupBackgroundColor #E2011F
+  GroupBodyBackgroundColor #FFFFFF
+  GroupHeaderBackgroundColor #FFFFFF
+}
+
